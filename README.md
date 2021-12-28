@@ -34,3 +34,4 @@
 ### 4. Modeling the system bases on equation of motion (without controller)
 
 ![](Images/3dofWithoutControl.png)
+VDO: [3dof without controller](https://github.com/saeth40/Advanced-dynamics/blob/main/3Dof%20Industrial%20Robot/VDO/Linkage%20Free%20Fall.mp4).
