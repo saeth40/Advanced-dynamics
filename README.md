@@ -16,3 +16,21 @@
 ![](Images/GenpathGraph.png)
 
 ## Project2: 3DOF Industrial Robot
+
+![](Images/3dofMain.png)
+
+### 1. Forward kinematics calculation
+
+![](Images/3dofForwardKinematics.png)
+
+### 2. Inverse kinematics calculation
+
+![](Images/3dofInverseKinematics.png)
+
+### 3. Comparing forward and inverse kinematics
+
+![](Images/3dofGraph.png)
+
+### 4. Modeling the system bases on equation of motion (without controller)
+
+![](Images/3dofWithoutControl.png)
